@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.tr.eurobano"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.tr.eurobano"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.tr.eurobano"
+        },
+        "cordova-plugin-disable-ios11-statusbar": {
+            "PACKAGE_NAME": "com.tr.eurobano"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.tr.eurobano"
+        }
+    },
+    "dependent_plugins": {}
+}

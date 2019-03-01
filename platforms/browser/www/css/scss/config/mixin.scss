@@ -1,0 +1,67 @@
+@mixin mq($width: "tablet") {
+  @if ($width == "phone") {
+
+    @media (max-width:576px){
+      @content
+    }
+  } @else if ($width == "tablet") {
+
+    @media (min-width:577px)and(max-width:992px) {
+      @content
+    }
+  } @else if ($width == "desktop") {
+
+    @media (max-width:993px)and(max-width: 1200px) {
+      @content
+    }
+  }@else if($width=="large"){
+    @media (min-width: 1201px)and(max-width: 1400px) {
+      @content
+    }
+  }@else if ($width == "xlarge") {
+
+    @media (min-width: 1401px){
+      @content
+    }
+  }
+}
+
+
+@mixin img-zoom($scale:1.20,$speed:.4){
+  display:block;
+  overflow:hidden;
+  position:relative;
+
+  img{
+    transition:all #{$speed}s ease;
+  }
+  &:hover img{
+    backface-visibility:hidden;
+    transform:translateZ(0) scale($scale);
+  }
+}
+
+@mixin opacity($opacity:0.6) {
+  filter: alpha(opacity=$opacity*100);
+  opacity: $opacity;
+}
+
+@mixin background-opacity($color:#000,$opacity:0.6){
+  transition: all 500ms;
+  background: rgba($color,$opacity)!important;
+  background: linear-gradient(to right, rgba($color,$opacity) 0%, rgba($color,$opacity) 100%)!important;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$color}', endColorstr='#{$color}', GradientType=1 )!important;
+}
+
+@mixin background-image($url:'../images/bg.jpg',$repeat:no-repeat,$position:0 0) {
+  background-image:url($url);
+  background-repeat:$repeat;
+  background-position:$position;
+}
+@mixin clearfix() {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}

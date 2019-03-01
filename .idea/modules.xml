@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EUROBANO.iml" filepath="$PROJECT_DIR$/.idea/EUROBANO.iml" />
+      <module fileurl="file://$USER_HOME$/code/form/.idea/form.iml" filepath="$USER_HOME$/code/form/.idea/form.iml" />
+      <module fileurl="file://$USER_HOME$/code/onlineftp/.idea/onlineftp.iml" filepath="$USER_HOME$/code/onlineftp/.idea/onlineftp.iml" />
+      <module fileurl="file://$USER_HOME$/code/villa/.idea/villa.iml" filepath="$USER_HOME$/code/villa/.idea/villa.iml" />
+      <module fileurl="file://$USER_HOME$/code/villakalkancomtr/.idea/villakalkancomtr.iml" filepath="$USER_HOME$/code/villakalkancomtr/.idea/villakalkancomtr.iml" />
+    </modules>
+  </component>
+</project>

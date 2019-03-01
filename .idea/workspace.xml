@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed4a2305-39d4-4708-8a70-ef31a6841f67" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1926603473">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-262003508">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="artisan" value="1" />
+          <entry key="css" value="5" />
+          <entry key="editorconfig" value="1" />
+          <entry key="env" value="3" />
+          <entry key="example" value="1" />
+          <entry key="gitattributes" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="5" />
+          <entry key="js" value="17" />
+          <entry key="json" value="3" />
+          <entry key="lock" value="1" />
+          <entry key="log" value="1" />
+          <entry key="md" value="1" />
+          <entry key="not" value="1" />
+          <entry key="php" value="438" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="4" />
+          <entry key="Blade" value="206" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="5" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="17" />
+          <entry key="Log" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="233" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="129" />
+          <entry key="js" value="1383" />
+          <entry key="php" value="17640" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="8662" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="138" />
+          <entry key="JavaScript" value="1378" />
+          <entry key="PHP" value="8974" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/code/onlineftp/src/Operations.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/code/onlineftp/src/function/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/AreaController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#40#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Blade" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>select2</find>
+      <find>listVillas</find>
+      <find>modal-dem</find>
+      <find>add</find>
+      <find>para_numeric</find>
+      <find>id=&quot;start</find>
+      <find>start_date</find>
+      <find>#en</find>
+      <find>carbon</find>
+      <find>$start_date</find>
+      <find>video</find>
+      <find>delete</find>
+      <find>script</find>
+      <find>smtp</find>
+      <find>offer</find>
+      <find>padding:</find>
+      <find>Listele</find>
+      <find>villas</find>
+      <find>list</find>
+      <find>addItem</find>
+      <find>console</find>
+      <find>.push</find>
+      <find>catego</find>
+      <find>category</find>
+      <find>input-sm</find>
+      <find>area</find>
+      <find>are</find>
+      <find>areas</find>
+      <find>send_offer</find>
+      <find>dd(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/code/villa" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/code/villa/resources/views/operation/edit.blade.php" />
+        <option value="$USER_HOME$/code/villa/app/ExtraService.php" />
+        <option value="$USER_HOME$/code/villa/app/AdditionalService.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/emails/offer.blade.php" />
+        <option value="$USER_HOME$/code/villa/database/migrations/2019_02_23_181951_create_additional_services_table.php" />
+        <option value="$USER_HOME$/code/villa/database/migrations/2019_02_23_162614_create_extra_services_table.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/layouts/left-sidebar.blade.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/ExtraServiceController.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/AdditionalServiceController.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/ReservationController.php" />
+        <option value="$USER_HOME$/code/villa/app/ReservationAdditionalService.php" />
+        <option value="$USER_HOME$/code/villa/app/ReservationExtraService.php" />
+        <option value="$USER_HOME$/code/villa/database/migrations/2019_02_25_135255_create_reservation_additional_services_table.php" />
+        <option value="$USER_HOME$/code/villa/database/migrations/2019_02_25_135230_create_reservation_extra_services_table.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/additionals/index.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/extras/index.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/extra/add.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/extra/edit.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/additional/add.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/additional/edit.blade.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/ReservationServicesContoller.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/reservation/detail.blade.php" />
+        <option value="$PROJECT_DIR$/../form/index.php" />
+        <option value="$USER_HOME$/code/form/http_config.php" />
+        <option value="$USER_HOME$/code/form/js/form_send.js" />
+        <option value="$USER_HOME$/code/form/test.php" />
+        <option value="$USER_HOME$/code/form/mysql_pdo.php" />
+        <option value="$USER_HOME$/code/form/config.php" />
+        <option value="$USER_HOME$/code/form/index.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/layouts/app.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/villa/detail.blade.php" />
+        <option value="$USER_HOME$/code/villakalkancomtr/resources/views/offer/offer.blade.php" />
+        <option value="$USER_HOME$/code/villakalkancomtr/app/Http/Controllers/OfferController.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/offer/requests/index.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/offer/requests/trashed.blade.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/OfferRequestController.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/VillaController.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/home.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/additional/index.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/operation/extra/index.blade.php" />
+        <option value="$USER_HOME$/code/villa/routes/web.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/website/offers.blade.php" />
+        <option value="$USER_HOME$/code/villa/app/Offer.php" />
+        <option value="$USER_HOME$/code/villa/app/OfferRequest.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/website/sendOffer.blade.php" />
+        <option value="$USER_HOME$/code/villa/resources/views/offer/requests/sent.blade.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/WebsiteController.php" />
+        <option value="$USER_HOME$/code/villa/app/Http/Controllers/HomeController.php" />
+        <option value="$USER_HOME$/code/onlineftp/Operations.php" />
+        <option value="$USER_HOME$/code/onlineftp/src/Operations.php" />
+        <option value="$USER_HOME$/code/onlineftp/src/function/functions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$USER_HOME$/code/villa/package.json" />
+      <path value="$USER_HOME$/code/villakalkancomtr/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-console/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-console/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-disable-ios11-statusbar/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlineftp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlineftp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlineftp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Illuminate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUROBANO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="villa" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Illuminate" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/code/form" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\w8\code\onlineftp\src" />
+      <recent name="C:\Users\w8\code\onlineftp" />
+      <recent name="C:\Users\w8\code\onlineftp\core" />
+      <recent name="C:\Users\w8\code\villa\resources\views\operation\extra" />
+      <recent name="C:\Users\w8\code\villa\public\assets\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\w8\code\villa\resources\views\operation\additionals" />
+      <recent name="C:\Users\w8\code\villa\resources\views\operation\extras" />
+      <recent name="C:\Users\w8\code\villa\resources\views\operation" />
+      <recent name="C:\Users\w8\code\villa\resources\views\operation\additional" />
+      <recent name="C:\Users\w8\code\villa\resources\views\operation\extra" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed4a2305-39d4-4708-8a70-ef31a6841f67" name="Default Changelist" comment="" />
+      <created>1550481877892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550481877892</updated>
+      <workItem from="1550481881002" duration="522000" />
+      <workItem from="1550486247160" duration="2976000" />
+      <workItem from="1550492012880" duration="3523000" />
+      <workItem from="1550565821181" duration="10702000" />
+      <workItem from="1550657917143" duration="60493000" />
+      <workItem from="1550844914101" duration="1880000" />
+      <workItem from="1550916288123" duration="16346000" />
+      <workItem from="1551085298351" duration="19642000" />
+      <workItem from="1551171409510" duration="995000" />
+      <workItem from="1551172441789" duration="18220000" />
+      <workItem from="1551261084512" duration="13830000" />
+      <workItem from="1551345666643" duration="11065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27836612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/.env.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/tests/CreatesApplication.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/tests/Unit/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/tests/Feature/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/storage/logs/laravel-2019-02-23.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../form/index.php" />
+    <entry file="file://$USER_HOME$/code/villa/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="346" column="9" selection-start-line="346" selection-start-column="3" selection-end-line="346" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/http_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/js/form_send.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/WebsitePanelController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="2514" column="58" selection-start-line="2514" selection-start-column="53" selection-end-line="2514" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/mysql_pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/email.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/layouts/topbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/form/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/villa/detail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="427" column="80" selection-start-line="427" selection-start-column="72" selection-end-line="427" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/villa/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1478">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/app/Http/Controllers/OfferController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/resources/views/offer/offer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="483" column="106" lean-forward="true" selection-start-line="483" selection-start-column="106" selection-end-line="483" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/offer/requests/trashed.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="84" column="162" selection-start-line="84" selection-start-column="162" selection-end-line="84" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/offer/requests/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="89" column="55" lean-forward="true" selection-start-line="89" selection-start-column="55" selection-end-line="90" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/VillaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="705" column="18" selection-start-line="705" selection-start-column="18" selection-end-line="705" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/app/Helpers/Helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6252" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/OfferRequestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="133" selection-start-line="13" selection-start-column="133" selection-end-line="13" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="141" column="44" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/operation/extra/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="56" lean-forward="true" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/operation/additional/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="56" lean-forward="true" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/offer/detail.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/website/trashedOffers.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/website/offers.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="53" column="138" selection-start-line="53" selection-start-column="138" selection-end-line="53" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="220" column="127" selection-start-line="220" selection-start-column="127" selection-end-line="220" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/OfferRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#23#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/WebsiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="157" column="17" selection-start-line="157" selection-start-column="14" selection-end-line="157" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/offer/requests/sent.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="109" column="40" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/resources/views/website/sendOffer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="297" column="65" selection-start-line="297" selection-start-column="65" selection-end-line="297" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Offer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="174" selection-start-line="11" selection-start-column="174" selection-end-line="11" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/vendor/composer/autoload_files.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/code/villakalkancomtr/vendor/composer/autoload_classmap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71736" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/onlineftp/src/Operations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#35#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/villa/app/Http/Controllers/AreaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#40#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/code/onlineftp/src/function/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
