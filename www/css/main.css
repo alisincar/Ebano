@@ -741,7 +741,8 @@ table {
 td {
   padding: 0; }
 
-.md .button {
+.md .button , .ios .button {
+  border: none;
   width: 35%;
   height: 7vh;
   display: -webkit-box;
@@ -774,7 +775,7 @@ td {
 .ios .tabbar-labels .tab-link.tab-link-active .icon:not(.icon-ios-fill) {
   display: none; }
 
-.md .navbar {
+.md .navbar, .ios .navbar {
   height: 85px;
   background-image: linear-gradient(281deg, #41414e, #686873);
   padding: 0px; }
@@ -793,12 +794,15 @@ td {
     .md .navbar-brand img {
       width: 140px;
       margin-bottom: 5px; }
-  .md .navbar-inner {
+  .md .navbar-inner, .ios .navbar-inner {
     padding-left: 25px;
     padding-right: 25px;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between; }
+			.ios .navbar-previous {
+				display:none;
+			}
 
 .md .theme-dark .page, .page.md .theme-dark {
   background-color: white; }
@@ -809,29 +813,34 @@ td {
   background-size: 100% 100%;
   height: auto; }
 
-.md .icon-back {
+.md .icon-back,.ios .icon-back, .ios .icon-prev {
   background-image: url(../images/icon-geri.png);
   width: 11px;
   height: 20px; }
+  .ios-only{color:#fff;}
 
-.md .navbar .title {
+.md .navbar .title, .ios .navbar .title {
   margin-left: auto;
   margin-right: auto;
   -webkit-transform: translateX(-24px);
-          transform: translateX(-24px); }
+          transform: translateX(-24px); 
+		      color: #fff;}
 
-.md .navbar .midler {
+.md .navbar .midler,.ios .navbar .midler {
   font-size: 17px;
   font-weight: 500;
   text-align: center;
   color: #ffffff; }
 
-.md .tabbar-labels.toolbar-bottom-md {
+.md .tabbar-labels.toolbar-bottom-md ,.ios .tabbar-labels {
   height: 80px;
   position: fixed; }
 
 .md .navbar a.link {
   min-width: auto; }
+.ios .tabbar-labels a.tab-link-active{
+  color: white;
+}
 
 .toolbar-inner {
   background-color: #75757e;
